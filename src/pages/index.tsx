@@ -4,7 +4,7 @@
 
 export default function Home(props) {
 
-  console.log(props.episodes)
+
 
   
   return (
